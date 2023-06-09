@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Pattern - Observer\Pattern - Observer\bin\Debug\netcoreapp3.1\Pattern - Observer.exe
+C:\Users\Administrator\source\repos\Pattern - Observer\Pattern - Observer\bin\Debug\netcoreapp3.1\Pattern - Observer.deps.json
+C:\Users\Administrator\source\repos\Pattern - Observer\Pattern - Observer\bin\Debug\netcoreapp3.1\Pattern - Observer.runtimeconfig.json
+C:\Users\Administrator\source\repos\Pattern - Observer\Pattern - Observer\bin\Debug\netcoreapp3.1\Pattern - Observer.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Pattern - Observer\Pattern - Observer\bin\Debug\netcoreapp3.1\Pattern - Observer.dll
+C:\Users\Administrator\source\repos\Pattern - Observer\Pattern - Observer\bin\Debug\netcoreapp3.1\Pattern - Observer.pdb
+C:\Users\Administrator\source\repos\Pattern - Observer\Pattern - Observer\obj\Debug\netcoreapp3.1\Pattern - Observer.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Pattern - Observer\Pattern - Observer\obj\Debug\netcoreapp3.1\Pattern - Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Pattern - Observer\Pattern - Observer\obj\Debug\netcoreapp3.1\Pattern - Observer.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Pattern - Observer\Pattern - Observer\obj\Debug\netcoreapp3.1\Pattern - Observer.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Pattern - Observer\Pattern - Observer\obj\Debug\netcoreapp3.1\Pattern - Observer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Pattern - Observer\Pattern - Observer\obj\Debug\netcoreapp3.1\Pattern - Observer.dll
+C:\Users\Administrator\source\repos\Pattern - Observer\Pattern - Observer\obj\Debug\netcoreapp3.1\Pattern - Observer.pdb
+C:\Users\Administrator\source\repos\Pattern - Observer\Pattern - Observer\obj\Debug\netcoreapp3.1\Pattern - Observer.genruntimeconfig.cache
