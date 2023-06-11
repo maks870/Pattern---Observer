@@ -30,7 +30,6 @@ namespace Pattern___Observer
             requirementList.Add(requirement);
         }
 
-
         public void NotifyObservers()
         {
             Console.WriteLine("Notify observers");
