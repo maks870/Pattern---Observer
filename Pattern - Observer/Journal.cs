@@ -8,8 +8,21 @@ namespace Pattern___Observer
         private List<IObserver> questList = new List<IObserver>();
         private List<IQuestRequirement> requirementList = new List<IQuestRequirement>();
 
+        private bool CheckObjForQuest(object obj)
+        {
+            bool isQuest = false;
+
+            if (obj.GetType().IsSubclassOf(typeof(Quest)) || obj.GetType() == typeof(Quest))
+                isQuest = true;
+
+            return isQuest;
+        }
+
         public void AddObserver(IObserver obs)
         {
+            if (!CheckObjForQuest(obs))
+                return;
+
             questList.Add(obs);
             Quest quest = (Quest)obs;
             quest.observable = this;
@@ -17,17 +30,14 @@ namespace Pattern___Observer
             requirementList.Add(requirement);
         }
 
+
         public void NotifyObservers()
         {
             Console.WriteLine("Notify observers");
 
-            List<IObserver> tempList = new List<IObserver>();
-            tempList.AddRange(questList);
-
             for (int i = 0; i < questList.Count; i++)
             {
-                Quest quest = (Quest)questList[i];
-                quest.Update();
+                questList[i].Update();
             }
         }
 
